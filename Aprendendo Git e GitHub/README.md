@@ -24,7 +24,7 @@
 |```git add -A```|Adicona todos os arquivos do repositório local para o commit (fase de stage)|
 |```git commit -m "mensagem do commit"```|Define um ponto de verificação, ou seja, salva as alterações do repositório local antes de enviá-los para o repositório remoto. A mensagem serve para "comentar" as alterações feitas nesse commit|
 |```git diff```|Mostra as diferenças entre os arquivos no diretório de trabalho e na área de palco (área de stage)|
-|```git log```|Exibe um registri de todos os commits feitos no repositório|
+|```git log```|Exibe um registro de todos os commits feitos no repositório|
 |```git push <repositório-remoto> <nome-da-branch>```|Envia os commits locais para o repositório remoto (**OBS: caso a branch seja recém criada, é preciso fazer o upload da branch com o seguinte comando: ```git push -u origin <nome-da-branch>```**)|
 |```git pull <repositório-remoto>```|Recebe as alterações do repositório remoto e aplica as mesmas no repositório local (**OBS: Essa operação pode causar conflitos que só podem ser resolvidos manualmente**)|
 |```git fetch```|Recupera todas as filiais e commits do repositório remoto, mescla com os arquivos locais|
