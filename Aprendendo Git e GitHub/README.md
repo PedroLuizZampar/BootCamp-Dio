@@ -49,3 +49,5 @@
 - [Ferramenta Markdown Guide](https://www.markdownguide.org/)
 - [Introducing Github O’Reilly](https://www.oreilly.com/library/view/introducing-github/9781491949801/)
 - [Learning Git O'Reilly](https://www.oreilly.com/library/view/learning-git/9781098133900/?_gl=1*1k0j59z*_ga*MTc2ODczMTk1MS4xNjk4NDI5NjAw*_ga_092EL089CH*MTcwMTcxODU5OC4yLjEuMTcwMTcxODc3NS41My4wLjA.)
+- [Ferramenta de IA que ajuda nos comandos do git](https://gitfluence.com/)
+- [GitHub Pages para compartilhamento das páginas no GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages)
