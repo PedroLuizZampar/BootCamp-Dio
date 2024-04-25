@@ -32,8 +32,8 @@
 |```git merge```|Integra a branch atual na branch principal (Explicação detalhada aqui: [Git Merge](https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/#:~:text=10.-,Git%20merge,-Quando%20voc%C3%AA%20concluir))|
 |```git rm <arquivo>```|Remove o arquivo especificado do controle de versão|
 |```git config --global```|Faz alterações globais nas configurações|
-|```git config --global user.name```|Altera o nome do usuário globalmente|
-|```git config --global user.name```|Altera o email do usuário globalmente|
+|```git config --global user.name <nome>```|Altera o nome do usuário globalmente|
+|```git config --global user.name <email>```|Altera o email do usuário globalmente|
 |```git config --list```|Visualiza as configurações existentes (é possível selecionar o escopo usando --local, --global ou --system)|
 |```git config --global core.editor <nome_do_editor>```|Altera o editor de texto padrão|
 |```git config --global alias.ex <exemplo>```|Cria um _alias_ para encurtar comandos longos|
