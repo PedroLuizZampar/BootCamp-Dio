@@ -38,9 +38,9 @@
 |```git config --global core.editor <nome_do_editor>```|Altera o editor de texto padrão|
 |```git config --global alias.ex <exemplo>```|Cria um _alias_ para encurtar comandos longos|
 ## 💡 Importante Lembrar
-- Para adicionar emojis em um, copiamos e colamos no arquivo
+- Para adicionar emojis em um MarkDown, copiamos e colamos no arquivo
 - É possível fazer alterações em arquivos do repositório remoto (GitHub) clicando no **"."**, sendo assim, será aberto um VS Code web.
-- Para salvar os arquivos, é só usar a interface gráfica.
+    - Para salvar os arquivos, é só usar a interface gráfica.
 
 ## 🔗 Links
 - [Controlando Versões com Git e GitHub](https://www.casadocodigo.com.br/pages/sumario-git-github)
